@@ -6,6 +6,11 @@
 *.sln.docstates
 
 # Build results
+# Ignore `bin` and `obj` folders at any depth and at repository root
+**/bin/
+**/obj/
+/bin/
+/obj/
 [Bb]in/
 [Oo]bj/
 out/
