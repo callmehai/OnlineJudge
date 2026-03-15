@@ -1,0 +1,23 @@
+@model OnlineJudge.Models.Submission
+
+<h2>Submit Code</h2>
+
+<form asp-action="Create">
+
+    <input type="hidden" asp-for="ProblemId" />
+
+    <div>
+        <label>Language</label>
+        <select asp-for="Language">
+            <option value="cpp">C++</option>
+        </select>
+    </div>
+
+    <div>
+        <label>Code</label>
+        <textarea asp-for="Code" rows="15" cols="80"></textarea>
+    </div>
+
+    <button type="submit">Submit</button>
+
+</form>
