@@ -1,0 +1,83 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+out/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# EF Core Migrations history (keep migrations code, ignore db files)
+*.db
+*.db-journal
+*.db-shm
+
+# Runtime files
+*.dll
+*.exe
+*.app
+*.log
+
+# Test results
+TestResults/
+
+# IIS Express
+/.vs/ServiceProfiles/
+
+# Publish output
+publish/
+
+# User-specific files
+*.userprefs
+*.userosscache
+
+# Build system folders
+.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider caches
+.idea/
+*.sln.iml
+
+# Rider local history
+local_history/
+
+# Coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Resharper
+_ReSharper*/
+*.ReSharper
+
+# Visual Studio Code workspace history
+.history/
+
+# Ignore secrets
+secrets.json
+appsettings.*.Secrets.json

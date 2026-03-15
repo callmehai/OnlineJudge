@@ -15,101 +15,105 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
 build_property.RootNamespace = OnlineJudge
 build_property.RootNamespace = OnlineJudge
-build_property.ProjectDir = /Users/tranviethaitrustsoft/OnlineJudge/
+build_property.ProjectDir = D:\prn222\Repos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/tranviethaitrustsoft/OnlineJudge
+build_property.MSBuildProjectDirectory = D:\prn222\Repos
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[D:/prn222/Repos/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[D:/prn222/Repos/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Problems/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvYmxlbXMvQ3JlYXRlLmNzaHRtbA==
+[D:/prn222/Repos/Views/Problems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvYmxlbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Problems/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvYmxlbXMvRGVsZXRlLmNzaHRtbA==
+[D:/prn222/Repos/Views/Problems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvYmxlbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Problems/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvYmxlbXMvRGV0YWlscy5jc2h0bWw=
+[D:/prn222/Repos/Views/Problems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvYmxlbXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Problems/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvYmxlbXMvRWRpdC5jc2h0bWw=
+[D:/prn222/Repos/Views/Problems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvYmxlbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Problems/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvYmxlbXMvSW5kZXguY3NodG1s
+[D:/prn222/Repos/Views/Problems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvYmxlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[D:/prn222/Repos/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/prn222/Repos/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Submissions/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VibWlzc2lvbnMvQ3JlYXRlLmNzaHRtbA==
+[D:/prn222/Repos/Views/Submissions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Submissions/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VibWlzc2lvbnMvRGVsZXRlLmNzaHRtbA==
+[D:/prn222/Repos/Views/Submissions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Submissions/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VibWlzc2lvbnMvRGV0YWlscy5jc2h0bWw=
+[D:/prn222/Repos/Views/Submissions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Submissions/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VibWlzc2lvbnMvRWRpdC5jc2h0bWw=
+[D:/prn222/Repos/Views/Submissions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Submissions/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VibWlzc2lvbnMvSW5kZXguY3NodG1s
+[D:/prn222/Repos/Views/Submissions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWlzc2lvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/TestCases/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVzdENhc2VzL0NyZWF0ZS5jc2h0bWw=
+[D:/prn222/Repos/Views/TestCases/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/TestCases/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVzdENhc2VzL0RlbGV0ZS5jc2h0bWw=
+[D:/prn222/Repos/Views/TestCases/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/TestCases/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVzdENhc2VzL0RldGFpbHMuY3NodG1s
+[D:/prn222/Repos/Views/TestCases/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/TestCases/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVzdENhc2VzL0VkaXQuY3NodG1s
+[D:/prn222/Repos/Views/TestCases/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/TestCases/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVzdENhc2VzL0luZGV4LmNzaHRtbA==
+[D:/prn222/Repos/Views/TestCases/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdENhc2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/prn222/Repos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/prn222/Repos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranviethaitrustsoft/OnlineJudge/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-ivsrrdr95x
+[D:/prn222/Repos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5cxykchti8
